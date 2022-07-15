@@ -1,0 +1,94 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0%;
+    background-color: rgba(0, 0, 0, 0.932);
+}
+.background{
+    background-image: url(./logo/3341446.jpg);
+    width: 100%;
+    height: 80vh;
+    background-size: cover;
+}
+.instruction{
+    background-repeat: no-repeat;
+    padding-top: 70px;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 25px;
+    text-align: center;
+}
+.names{
+    color: rgb(28, 167, 160);
+}
+#series{ 
+    color: yellow;
+}
+#and{
+    color:aliceblue;
+}
+.button-type{
+    color: rgb(0, 255, 242);
+    text-decoration:none;
+    padding: 10PX 36PX;
+    background-image: url(./logo/2966709.jpg);
+    background-size: 100%;
+    background-position: 25% 20%;
+    background-repeat: no-repeat;
+    border-radius: 8PX;
+    border: 1px solid lightblue;
+    box-shadow: 1px 2px 6px lightgrey;
+}
+.button-type:hover{
+    color: yellow;
+}
+.payment-type{
+    padding-top: 2%;
+    padding-left: 43%;
+}
+.video-head{
+    color:rgb(28, 167, 160) ;
+}
+.video-head:hover{
+    color: yellow;
+}
+.names-rad{
+    color: red;
+}
+.stats{
+    padding: 5% 35%;
+    text-align: center;
+}
+.movies{
+    display: flex;
+    width: 93%;
+    padding-left: 3%;
+}
+.description{
+    width: 100%;
+    padding: 15px 10px ;
+    border-top: 2PX ;
+    border-left: 2PX ;
+    border-bottom:1px solid yellow ;
+    margin: 5px;
+    text-align: center;
+}
+.posters{
+    width: 100%;
+    height: 355px;
+    margin-bottom: 0%;
+    border-bottom: 0%;
+}
+.validity{
+    display: flex;
+    color: rgb(28, 167, 160);
+    padding-top: 40px;
+}
+.length{
+    color: aliceblue;   
+    text-decoration: none;
+}
+.LIST-ITEM{
+    padding-left: 12%;
+    padding-top: 22px;
+}
+
